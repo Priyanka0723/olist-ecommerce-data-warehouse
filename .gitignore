@@ -1,0 +1,18 @@
+# Dataset files
+Dataset/Raw/
+Dataset/Processed/
+Dataset/Transformed/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment and system files
+.env
+.DS_Store
+Thumbs.db
+
+# Database backup files
+*.sql.gz
+*.bak
